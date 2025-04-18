@@ -5,32 +5,6 @@
 ![](https://img.shields.io/github/forks/llm-red-team/jimeng-free-api.svg)
 ![](https://img.shields.io/docker/pulls/vinlic/jimeng-free-api.svg)
 
-支持即梦超强图像生成能力（目前官方每日赠送 66 积分，可生成 66 次），零配置部署，多路 token 支持。
-
-与 OpenAI 接口完全兼容。
-
-还有以下十个 free-api 欢迎关注：
-
-Moonshot AI（Kimi.ai）接口转 API [kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
-
-阶跃星辰 (跃问 StepChat) 接口转 API [step-free-api](https://github.com/LLM-Red-Team/step-free-api)
-
-阿里通义 (Qwen) 接口转 API [qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api)
-
-智谱 AI (智谱清言) 接口转 API [glm-free-api](https://github.com/LLM-Red-Team/glm-free-api)
-
-秘塔 AI (Metaso) 接口转 API [metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api)
-
-字节跳动（豆包）接口转 API [doubao-free-api](https://github.com/LLM-Red-Team/doubao-free-api)
-
-讯飞星火（Spark）接口转 API [spark-free-api](https://github.com/LLM-Red-Team/spark-free-api)
-
-MiniMax（海螺 AI）接口转 API [hailuo-free-api](https://github.com/LLM-Red-Team/hailuo-free-api)
-
-深度求索（DeepSeek）接口转 API [deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api)
-
-聆心智能 (Emohaa) 接口转 API [emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api)
-
 ## 目录
 
 - [Jimeng AI Free 服务](#jimeng-ai-free-服务)
